@@ -14,6 +14,8 @@ source setup.sh
 
 # Configuración en Windows
 
+Esta es una linea debajo de windows
+
 Ejecute los siguientes comandos en el terminal:
 
 ```bash
