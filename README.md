@@ -12,6 +12,8 @@ source .venv/bin/activate
 source setup.sh
 ```
 
+Esta es una linea encima de windows
+
 # Configuración en Windows
 
 Esta es una linea debajo de windows
